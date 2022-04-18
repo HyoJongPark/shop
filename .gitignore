@@ -40,3 +40,6 @@ out/
 .css
 .js
 .map
+/src/main/resources/static/css
+/src/main/resources/static/js
+/src/main/resources/static/css/jumbotron-narrow.css
